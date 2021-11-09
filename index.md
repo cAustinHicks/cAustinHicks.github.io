@@ -31,15 +31,15 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ad-Blocking and Its Effects](/pdf/Ad-Blocking.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 235 Procedural Programming**  
+-   **Grade: B**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Certification and Medical Equipment](/pdf/Certification.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 315 Data Structures** 
+-   **Grade: A**
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
