@@ -12,12 +12,12 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project2)
+### [HTML Parsing Project | CSCI 315](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project3)
+### [Game 21 Group Project | CSCI 325](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Blackjack/Game 21 Presentation](/video/Game21_Presentation.mp4)
 
-- **Class:** 
+- **Class: CSCI 325 Object-Oriented Programming** 
 - **Grade:**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Presentation 2 Title](/video/sample_presentation.pdf)
 
 - **Class:** 
 - **Grade:**
