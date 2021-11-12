@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Game 21 Group Project | CSCI 325](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/game21_1.png)
 
 ---
 ### [Project 4 Title | CSCI 332](project4)
@@ -57,10 +57,10 @@ Presentations
 - **Grade:**
 
 
-### [Presentation 2 Title](/video/sample_presentation.pdf)
+### [Lab 3 Walkthrough Presentation](/video/Lab3_Presentation.mp4)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 332 Applied Networking** 
+- **Grade: A**
 
 ---
 
