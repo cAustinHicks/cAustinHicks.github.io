@@ -1,26 +1,27 @@
 [Back to Portfolio](./)
 
-Project 2 Title
+HTML Parsing Project
 ===============
 
--   **Class:** 
--   **Grade:**
--   **Language(s):**
+-   **Class: CSCI 315 Data Structures** 
+-   **Grade: A**
+-   **Language(s): C++**
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:cahicks@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Using C++, we were to create a program in order to test the parsing of website tags. Opening tags in the HTML documents tested are saved into a string array to save the order of each tag that has been found. If the next closing tag that shows up in the document does not match the opening tag at the end of the array, then the HTML file is unbalanced. If the HTML file is balanced, the program looks for any anchor tags and counts them, doing the same with the file it connects to 
 
 ## How to compiles / run the program
 
-How to compile (if applicable) and run the project.
+Download the files that were given to you, then go to Command Prompt/Terminal and type these out:
 
-```bash
-cd ./project
-python setup.py
+```cd [folder you put the project in]
+run makefile
+./html-test pages/*
 ```
+You can replace ```pages/*``` with the directory and file you want to test as well.
 
 ## UI Design
 
