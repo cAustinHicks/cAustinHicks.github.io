@@ -34,16 +34,16 @@ The process begins by printing out the title screen (see Fig 1) and waiting on t
 
 After all players have finished, the dealer (CPU) will play itself, choosing to hit under 16 and to stay at any other point (see Fig 4). After its turn, the program determins who wins by first deciding out of the players who had the better hand, either by having 5 cards, not busting, having the highest score, or by having 21. Afterwards, it compares the best hand of the players to the dealer's. If there is any tie between the dealer and the player, the dealer having 5 cards, or if all players busts, the dealer wins. Otherwise, the player with the best hand wins.
 
-![screenshot](images/game21_1.jpg)
+![screenshot](images/game21_1.png)
 Fig 1. The title screen
 
-![screenshot](images/game21_2.jpg)
+![screenshot](images/game21_2.png)
 Fig 2. Example output of the rules along with the player number prompt.
 
-![screenshot](images/game21_3.jpg)
+![screenshot](images/game21_3.png)
 Fig 3. Demonstration of the hit command.
 
-![screenshot](images/game21_4.jpg)
+![screenshot](images/game21_4.png)
 Fig 4. Demonstration of a player busting along with the Dealer's system and closing the game.
 
 ## 3. Additional Considerations
