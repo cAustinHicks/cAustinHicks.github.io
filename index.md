@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [HTML Parsing Project | CSCI 315](project2)
 
-![HTML Parsing Preview](images/dummy_thumbnail.jpg)
+![HTML Parsing Preview](images/parsing4.PNG)
 
 ---
 ### [Game 21 Group Project | CSCI 325](project3)
@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Lab 4 - External CSS | CSCI 332](project4)
 
-![External CSS Preview](images/dummy_thumbnail.jpg)
+![External CSS Preview](images/lab4_1.png)
 
 ---
 
@@ -41,7 +41,7 @@ Ethics Papers
 -   **Class: CSCI 315 Data Structures** 
 -   **Grade: A**
 
-### [Programs, Patents, and Protection](/pdf/"Programs, Patents, and Protection".pdf)
+### [Programs, Patents, and Protection](/pdf/Protection.pdf)
 
 -   **Class: CSCI 332 Applied Networking** 
 -   **Grade: B**
