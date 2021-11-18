@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Lab 4
+Lab 4 - External CSS
 ===============
 
 -   **Class: CSCI 332 Applied Networking** 
 -   **Grade: A**
 -   **Language(s): HTML and CSS**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [cAustinHicks/css_lab4](https://github.com/cAustinHicks/css_lab4)  
     (Please [email me](mailto:cahicks@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
