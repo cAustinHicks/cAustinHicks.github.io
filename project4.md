@@ -1,11 +1,11 @@
 [Back to Portfolio](./)
 
-Project 4 Title
+Lab 4
 ===============
 
--   **Class:** 
--   **Grade:**
--   **Language(s):**
+-   **Class: CSCI 332 Applied Networking** 
+-   **Grade: A**
+-   **Language(s): HTML and CSS**
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:cahicks@csustudent.net?subject=GitHub%20Access) to request access.)
 
@@ -37,8 +37,6 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For the sake of keeping the files needed to download from GitHub to a minimum, only the main webpage and the webpages of Lab 4 will be accessible. If you wish to see the other labs and websites, please contact me using the email above. Depending on the computer and browser, the drop-down menu may be off its designated position by a few pixels.
 
 [Back to Portfolio](./)
