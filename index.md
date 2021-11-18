@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [TAL Database in APEX | CSCI 419](project1)
 
-![TAL Database Preview](images/dummy_thumbnail.jpg)
+![TAL Database Preview](images/sql_3.png)
 
 ---
 ### [HTML Parsing Project | CSCI 315](project2)
