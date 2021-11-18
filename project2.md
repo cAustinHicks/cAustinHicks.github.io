@@ -11,35 +11,37 @@ HTML Parsing Project
 
 ## Project description
 
-Using C++, we were to create a program in order to test the parsing of website tags. Opening tags in the HTML documents tested are saved into a string array to save the order of each tag that has been found. If the next closing tag that shows up in the document does not match the opening tag at the end of the array, then the HTML file is unbalanced. If the HTML file is balanced, the program looks for any anchor tags and counts them, doing the same with the file it connects to 
+Using C++, we were to create a program in order to test the parsing of website tags. Opening tags in the HTML documents tested are saved into a string array to save the order of each tag that has been found. If the next closing tag that shows up in the document does not match the opening tag at the end of the array, then the HTML file is unbalanced. If the HTML file is balanced, the program looks for any anchor tags and counts them, then it repeats the process for all connecting files. If the HTML is unbalanced, any anchor tags within that file are ignored. At the end of the program, it prints out the name of the HTML file, tells you if it is balanced, and tells you how many pages it can visit. 
 
 ## How to compiles / run the program
 
 Download the files that were given to you, then go to Command Prompt/Terminal and type these out:
 
 ```cd [folder you put the project in]
-run makefile
+make html-test
 ./html-test pages/*
 ```
-You can replace ```pages/*``` with the directory and file you want to test as well.
+You can replace ```html-test``` with any file name you want to try, however html-test will already be available to download. If you do choose to make a new file, remember to make ```./html-test``` be ```./[your file name]```
+You can also replace ```pages/*``` with the directory and file you want to test as well.
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+Because this program is used in a terminal and there is only one command that is used for the process (see Fig 1.), there is no detailed UI design for this project. Upon submitting the command, the string of information will be printed out in the terminal, showing you which files have been tested. Each HTML file will show whether they are unbalanced (Fig 2.) or balanced (Fig 3.) and how many pages they can visit. Depending on what you run for your command, you can check the parsing of more than one file (see Fig 4.)
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
+![screenshot](images/parser1.PNG)
+Fig 1. Example of using the makefile and syntax for testing.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
+![screenshot](images/parser2.PNG)
+Fig 2. Example of an unbalanced HTML file's response.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+![screenshot](images/parser3.PNG)
+Fig 3. Example of a balanced HTML file's response.
+
+![screenshot](images/parser4.PNG)
+Fig 3. Example of parsing more than one HTML file.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This program was not designed for testing the parsing and page visiting on menu-based website groups. This means if a website were to visit a website already counted, the program will be stuck on an infinite loop and will have to be closed down.
 
 [Back to Portfolio](./)
