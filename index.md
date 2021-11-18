@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [HTML Parsing Project | CSCI 315](project2)
 
-![HTML Parsing Preview](images/parsing4.PNG)
+![HTML Parsing Preview](images/parser4.PNG)
 
 ---
 ### [Game 21 Group Project | CSCI 325](project3)
