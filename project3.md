@@ -6,7 +6,7 @@ Game 21 Group Project
 -   **Class: CSCI 325 Object-Oriented Programming** 
 -   **Grade: A**
 -   **Language(s): Java**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [cAustinHicks/game21](https://github.com/cAustinHicks/game21)  
     (Please [email me](mailto:cahicks@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
