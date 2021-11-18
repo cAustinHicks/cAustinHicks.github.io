@@ -29,13 +29,13 @@ Lastly, there is a Contacts tab that will lead you to a website that provides my
 ![screenshot](images/lab4_1.png)
 Fig 1. My website's home screen
 
-![screenshot](images/lab4_1b.png)
+![screenshot](images/Lab4_1b.png)
 Fig 2. The Lab 4 home screen
 
-![screenshot](images/lab4_2.png)
+![screenshot](images/Lab4_2.png)
 Fig 3. Problem 4 website
 
-![screenshot](images/lab4_3.png)
+![screenshot](images/Lab4_3.png)
 Fig 4. Problem 5 website
 
 ## 3. Additional Considerations
