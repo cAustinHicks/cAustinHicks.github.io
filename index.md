@@ -7,24 +7,24 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [TAL Database in APEX | CSCI 419](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![TAL Database Preview](images/dummy_thumbnail.jpg)
 
 ---
 ### [HTML Parsing Project | CSCI 315](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![HTML Parsing Preview](images/dummy_thumbnail.jpg)
 
 ---
 ### [Game 21 Group Project | CSCI 325](project3)
 
-![Project 3 Thumbnail Name](images/game21_1.png)
+![Game 21 Preview](images/game21_1.png)
 
 ---
-### [Project 4 Title | CSCI 332](project4)
+### [Lab 4 - External CSS | CSCI 332](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![External CSS Preview](images/dummy_thumbnail.jpg)
 
 ---
 
@@ -41,10 +41,10 @@ Ethics Papers
 -   **Class: CSCI 315 Data Structures** 
 -   **Grade: A**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Programs, Patents, and Protection](/pdf/"Programs, Patents, and Protection".pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 332 Applied Networking** 
+-   **Grade: B**
 
 ---
 
@@ -54,7 +54,7 @@ Presentations
 ### [Blackjack/Game 21 Presentation](/video/Game21_Presentation.mp4)
 
 - **Class: CSCI 325 Object-Oriented Programming** 
-- **Grade:**
+- **Grade: B**
 
 
 ### [Lab 3 Walkthrough Presentation](/video/Lab3_Presentation.mp4)
