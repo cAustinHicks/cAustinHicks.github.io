@@ -6,7 +6,7 @@ HTML Parsing Project
 -   **Class: CSCI 315 Data Structures** 
 -   **Grade: A**
 -   **Language(s): C++**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [cAustinHicks/html-parser](https://github.com/cAustinHicks/html-parser)  
     (Please [email me](mailto:cahicks@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
