@@ -6,7 +6,7 @@ TAL Database in APEX
 -   **Class: CSCI 419 Database Management** 
 -   **Grade: A**
 -   **Language(s): SQL**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [cAustinHicks/tal_database](https://github.com/cAustinHicks/tal_database)  
     (Please [email me](mailto:cahicks@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
