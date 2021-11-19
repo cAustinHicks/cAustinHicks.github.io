@@ -21,7 +21,7 @@ Download the files that were given to you, then go to Command Prompt/Terminal an
 make html-test
 ./html-test pages/*
 ```
-You can replace ```html-test``` with any file name you want to try, however html-test will already be available to download. If you do choose to make a new file, remember to make ```./html-test``` be ```./[your file name]```
+You can replace ```html-test``` with any file name you want to try by typing out ```./[your file name]```.
 You can also replace ```pages/*``` with the directory and file you want to test as well. To test all HTML files in that directory, use the asterisk.
 
 ## UI Design
