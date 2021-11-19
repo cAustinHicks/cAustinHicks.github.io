@@ -27,6 +27,11 @@ Programming Projects
 ![External CSS Preview](images/lab4_1.png)
 
 ---
+### [Hangman | CSCI 235](project5)
+
+![External CSS Preview](images/lab4_1.png)
+
+---
 
 Ethics Papers
 -------------
