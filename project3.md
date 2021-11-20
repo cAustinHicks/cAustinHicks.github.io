@@ -19,12 +19,19 @@ After all players have played, the Dealer plays, choosing to hit if under 16 and
 
 ## How to compiles / run the program
 
-This program was designed to be used on Apache NetBeans IDE.
+To run, open the terminal and go to the directory where you have the .jar file
+Type this command:
+```java -jar Game21-1.0-SNAPSHOT.jar```
+Your computer must be updated to Jave 14 or higher in order to run the file.
+
+You can also run the project on Apache NetBeans IDE.
 You will need to download all files in order to run the project
 
 Upon opening NetBeans, click on "Open Project" and select Game21.
 Open up the csu.csci325 source package and open Game21.java.
 Now click on "Run Program" to run the program.
+
+You can create the .jar file by right-clicking the project Game21 and selecting "Clean and Build". It will appear in the "target" folder.
 
 ## UI Design
 
