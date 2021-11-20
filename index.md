@@ -29,7 +29,7 @@ Programming Projects
 ---
 ### [Hangman | CSCI 235](project5)
 
-![External CSS Preview](images/lab4_1.png)
+![External CSS Preview](images/hangman_3.png)
 
 ---
 
